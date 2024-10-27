@@ -1,3 +1,40 @@
+
+Questions Bank for CA2
+1.	Explain Switch case and Write a program to print week day name using switch case.
+2.	Differentiate between nested if and Switch case.
+3.	Compare While and do while loop.
+4.	What are different Control Statements/Constructs in ‘C’.
+5.	WAP to check whether the year entered is leap year or not using branching statements.
+6.	Write a C program to check whether a triangle is valid or not if angles are given using if else.
+7.	 Write a program to input an alphabet and check whether it is vowel or consonant using switch case.
+8.	Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition:
+    For first 50 units Rs. 0.50/unit 
+    For next 100 units Rs. 0.75/unit
+    For next 100 units Rs. 1.20/unit
+    For unit above 250 Rs. 1.50/unit and an additional surcharge of 20% is added to the bill
+9.	Explain types of Looping Statements  and WAP to calculate sum of given series  
+    1 + 1/2! + 1/3! + 1/4! + ...........
+
+10.	 WAP to print following pattern
+      1
+      2 2
+      3 3 3 
+      4 4 4 4 
+      5 5 5 5 5
+ 
+11.	WAP to print following pattern.
+    5 4 3 2 1 
+    4 3 2 1
+    3 2 1 
+    2 1 
+    1
+            
+12. WAP to print following pattern
+       *
+      ***
+     *****
+    *******
+ 
 13.	Compare “break” and “continue” statements.
 14.	Explain array and its types.
 15.	WAP to search an element in array.
@@ -9,4 +46,5 @@
 20.	WAP to perform transpose of a matrix.
 
 
+You can visit the below link for questions...
 https://drive.google.com/drive/folders/1ScjZXzw9ZdQLOajgTDVNLYbjZqRMQBnu
