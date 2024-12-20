@@ -6,7 +6,6 @@ scanf("%d",&a);
 printf("Enter b = ");
 scanf("%d",&b);
 *c = &a;
-printf("%d\n",*c);
 &a = &b;
 &b = *c;
 printf("After swaping\n");
