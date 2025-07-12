@@ -1,0 +1,12 @@
+Our program simulates an airline booking system. It performs the following functions:
+ * Check if a user exists in the database.
+ * Handle rebooking of a flight.
+ * Register a new user.
+ * Authenticate discount coupons.
+We have designed this robust program that can handle a wide range of user inputs seamlessly.
+
+Registered usernames : 
+    -> Aakash172005
+    -> Anshu124578
+    -> Kaustub123
+    -> Kiran4520
